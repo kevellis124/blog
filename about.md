@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
+title: Who am I?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Kevin Ellis. I am a full-time software engineer, currently working in Blacksburg, Virginia, USA.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have been developing software professionally since 2015. I am a passionate gamer, I love basketball, football, and my dog Harvey!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![my dog Harvey](/assets/harvey-sleeping.jpg)
